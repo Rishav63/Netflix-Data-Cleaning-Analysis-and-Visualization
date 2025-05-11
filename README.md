@@ -41,3 +41,4 @@ You can install the required libraries using `pip`:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn nltk
+Made by - Rishav Kumar Sharma (Data Analyst)
