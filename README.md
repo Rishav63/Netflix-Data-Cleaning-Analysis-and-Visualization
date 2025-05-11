@@ -1,5 +1,5 @@
 # Netflix-Data-Cleaning-Analysis-and-Visualization
-# Netflix Data Analysis & Recommendation System
+# Netflix Data Analysis & Recommendation System  (Made by - Rishav Kumar Sharma (Data Analyst))
 
 ## Project Overview
 This project provides an in-depth analysis of Netflix's content library using Python. It covers various aspects of data cleaning, feature engineering, data visualization, and a content-based recommendation system.
@@ -41,4 +41,4 @@ You can install the required libraries using `pip`:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn nltk
-Made by - Rishav Kumar Sharma (Data Analyst)
+
