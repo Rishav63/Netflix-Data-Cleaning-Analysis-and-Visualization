@@ -1,5 +1,5 @@
 # Netflix-Data-Cleaning-Analysis-and-Visualization
-# Netflix Data Analysis & Recommendation System  (Made by - Rishav Kumar Sharma (Data Analyst))
+# Netflix Data Analysis & Recommendation System  (Made by - Rishav Kumar Sharma) 
 
 ## Project Overview
 This project provides an in-depth analysis of Netflix's content library using Python. It covers various aspects of data cleaning, feature engineering, data visualization, and a content-based recommendation system.
